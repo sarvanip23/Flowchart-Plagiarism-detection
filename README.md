@@ -1,2 +1,2 @@
 # Flowchart-Plagiarism-detection
-An image processing tool for flowchart plagiarism detection, analyzing flowchart images to  identify similarities and calculating the percentage of  plagiarism detected.
+Flowcharts are diagrammatic representations of algorithms, composed of various graphical shapes such as circles, rectangles, diamonds, and parallelograms interconnected by lines. Each shape represents a specific operation and may contain text. The proposed approach aims to identify plagiarism in flowcharts by comparing their graphical elements, connector lines, and text content.
